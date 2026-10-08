@@ -1,0 +1,18 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Production build
+dist
+*.tsbuildinfo
+
+# Vite cache
+.vite
+
+# Logs & temp
+*.log
+.DS_Store
+
+# IDE
+.vscode
+.idea
